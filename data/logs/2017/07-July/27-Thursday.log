@@ -1,0 +1,12 @@
+
+
+Starting up. (ID: bPF-b3Ri) 05:28.11
+---------------------
+[05:28:12] bPF-b3Ri MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[05:28:12] bPF-b3Ri MISC: Database connection failed. Reverting to the legacy ban system.
+[05:28:12] bPF-b3Ri DEBUG: Rebuilding Master Controller
+[05:34:01] bPF-b3Ri DEBUG: The server has called a gamemode vote
+[05:37:42] bPF-b3Ri DEBUG: The server has called a gamemode vote
+[05:40:11] bPF-b3Ri DEBUG: Next event of severity Mundane in 17.916 minutes.
+[05:40:11] bPF-b3Ri DEBUG: Next event of severity Moderate in 39.97 minutes.
+[05:40:11] bPF-b3Ri DEBUG: Next event of severity Major in 88.8733 minutes.

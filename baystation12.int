@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1501158312
+DIR: code code\game code\game\gamemodes\cult code\game\gamemodes\cult\cultify code\game\jobs\job code\game\objects code\game\objects\effects\decals code\game\objects\items code\game\objects\items\weapons code\modules code\modules\admin code\modules\admin\secrets code\modules\admin\secrets\admin_secrets code\modules\clothing code\modules\clothing\spacesuits code\modules\clothing\suits code\modules\clothing\under code\modules\clothing\under\jobs code\modules\clothing\under\xenos code\modules\customitems code\modules\economy code\modules\mob code\modules\projectiles code\modules\projectiles\guns code\modules\projectiles\guns\projectile code\ZAS icons icons\obj icons\obj\clothing icons\obj\clothing\species 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 511.1385
+WINDOW: code\modules\projectiles\guns\projectile\automatic.dm;code\modules\clothing\suits\wiz_robe.dm;code\game\objects\items\soap.dm
+FILE: code\game\objects\items\soap.dm
+*/
+// END_INTERNALS
